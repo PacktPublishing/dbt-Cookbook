@@ -1,0 +1,9 @@
+version: 2
+
+seeds:
+  - name: country_codes
+    config:
+      +column_types:
+        CountryCode: varchar(2)
+        CountryName: varchar(32)
+        Continent: varchar(64)

@@ -1,0 +1,11 @@
+CountryCode,CountryName,Continent
+"US","United States","North America"
+"CA","Canada","North America"
+"BR","Brazil","South America"
+"AR","Argentina","South America"
+"DE","Germany","Europe"
+"FR","France","Europe"
+"IN","India","Asia"
+"CN","China","Asia"
+"ZA","South Africa","Africa" 
+"AU","Australia","Oceania"
